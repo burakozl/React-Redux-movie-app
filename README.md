@@ -1,3 +1,13 @@
+# React-Redux Movie App
+
+## Used Technology and Tools 
+* React.js
+* Redux-toolkit
+* React-router-dom
+* React-slick
+* Axios
+* node-sass
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
