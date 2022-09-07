@@ -1,5 +1,6 @@
 # React-Redux Movie App
 
+## [openlivepage](https://burakozel-movie-app.netlify.app/)
 ## Used Technology and Tools 
 * React.js
 * Redux-toolkit
